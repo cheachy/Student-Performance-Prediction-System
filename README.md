@@ -35,7 +35,7 @@ The app will automatically open at: **http://localhost:8501**
 
 | Tab   | Step          | Description                                                           |
 |-------|---------------|-----------------------------------------------------------------------|
-| Tab 1 | Dataset       | Load CSV/Excel or use built-in sample. View data, stats, distribution |
+| Tab 1 | Dataset       | Load CSV/Excel. View data, stats, distribution                        |
 | Tab 2 | Preprocessing | Handle missing values, encode categories, scale features, split data  |
 | Tab 3 | Training      | Train KNN, SVM, and ANN with adjustable hyperparameters               |
 | Tab 4 | Evaluation    | Compare accuracy, precision, recall, F1, confusion matrices           |
